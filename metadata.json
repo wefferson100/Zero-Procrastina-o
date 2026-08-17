@@ -1,0 +1,6 @@
+{
+  "name": "Registro de Fechamento",
+  "description": "Aplicativo de registro diário e histórico de fechamento dos 5 pilares com avaliação de metas, desvios e tendências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
